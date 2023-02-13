@@ -20,6 +20,7 @@ public class Main {
 
         Car c = new Car();
 
+        // create configuration call it 'Run' and config it to run the Main class
         // create a ctor for car with all fields
         // create a car using this ctor
         // create a ctor which gets all fields except for price
